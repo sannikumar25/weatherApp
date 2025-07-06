@@ -14,6 +14,7 @@ Welcome to the Weather App repository! This project is a web application that pr
 - **Frontend**: HTML, CSS, JAVASCRIPT
 - **API**: [OpenWeatherMap](https://openweathermap.org/)
 - **Icons**: [Fontawesome](https://fontawesome.com/)
+- site is live at https://sannikumar25.github.io/weatherApp/
 
 ### Additional information 
 
